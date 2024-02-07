@@ -1,2 +1,2 @@
-## Git Teste
-Teste de texto no Read Me!
+# Git e GitHub
+Nosso curso de Git e GitHub Supimpa!!!!
